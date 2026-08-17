@@ -23,6 +23,10 @@ The Travel Planner Agent simplifies this process by providing intelligent and pe
 
 ## Demo Video
 https://drive.google.com/file/d/11ehowYHljfvEcRa2AtZn1afLlGlZGOw1/view?usp=sharing
+**###Project Documentation****
+PDF Report: https://drive.google.com/file/d/1igHkmQog9jb5G4CYIcI4OdXyofbhbWvP/view?usp=sharing
+**###Presentation:**
+PPT: https://docs.google.com/presentation/d/1q9i3tFp_ezNl5dJdR64cN01hJ1ZjWzGV/edit?usp=sharing&ouid=117669326773742666007&rtpof=true&sd=true
 
 ## Repository Contents
 * Travel Planner Agent.pdf
